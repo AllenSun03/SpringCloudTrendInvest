@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: config-client
+  cloud:
+    # config客户端配置
+    config:
+      label: master # 分支名称
+      name: config # 配置文件名称
+      profile: dev # 读取后缀名称
+      uri: http://localhost:8060
+    bus:
+      enabled: true
+      trace:
+        enabled: true
+rabbitmq:
+  host: localhost
+  port: 5672 #5672 是 rabbitMQ 服务器的端口， 15672 是 rabbitMQ 自带的某个web工具的端口
+  username: guest
+  password: guest
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

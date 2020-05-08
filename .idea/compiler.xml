@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="index-config-server" />
+        <module name="index-gather-store-service8001" />
+        <module name="index-zuul-service8031" />
+        <module name="trend-trading-backtest-service8051" />
+        <module name="third-part-index-data-project8090" />
+        <module name="index-codes-service8011" />
+        <module name="trend-trading-backtest-view8041" />
+        <module name="eureka-server8761" />
+        <module name="index-data-service8021" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

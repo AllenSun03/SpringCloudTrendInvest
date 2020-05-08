@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6306908d-36e3-4040-b0fa-2a79d51eb162" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server8761/target/" />
+    <ignored path="$PROJECT_DIR$/third-part-index-data-project8090/target/" />
+    <ignored path="$PROJECT_DIR$/index-gather-store-service8001/target/" />
+    <ignored path="$PROJECT_DIR$/index-codes-service8011/target/" />
+    <ignored path="$PROJECT_DIR$/index-data-service8021/target/" />
+    <ignored path="$PROJECT_DIR$/index-zuul-service8031/target/" />
+    <ignored path="$PROJECT_DIR$/trend-trading-backtest-service8051/target/" />
+    <ignored path="$PROJECT_DIR$/trend-trading-backtest-view8041/target/" />
+    <ignored path="$PROJECT_DIR$/index-config-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/templates/view.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12084">
+              <caret line="636" selection-start-line="636" selection-end-line="636" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-zuul-service8031/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-config-server/src/main/java/com/allen/springcloud/IndexConfigServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-config-server/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/java/com/allen/springcloud/web/ViewController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/java/com/allen/springcloud/util/FreshConfigUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/java/com/allen/springcloud/TrendTradingBackTestViewApplication8041.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>IndexDataClient</find>
+      <find>IndexService</find>
+      <find>third_part_not_connected()</find>
+      <find>ma</find>
+      <find>zipkin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/趋势投资启动流程" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/pojo/IndexData.java" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/client/IndexDataClientFeignHystrix.java" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/resources/templates/include/header.html" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/resources/templates/include/footer.html" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/resources/templates/view.html" />
+        <option value="$PROJECT_DIR$/index-gather-store-service8001/src/main/java/com/allen/springcloud/service/IndexService.java" />
+        <option value="$PROJECT_DIR$/index-gather-store-service8001/src/main/java/com/allen/springcloud/controller/IndexDataController.java" />
+        <option value="$PROJECT_DIR$/index-gather-store-service8001/src/main/java/com/allen/springcloud/pojo/IndexData.java" />
+        <option value="$PROJECT_DIR$/index-gather-store-service8001/src/main/java/com/allen/springcloud/service/IndexDataService.java" />
+        <option value="$PROJECT_DIR$/index-gather-store-service8001/src/main/java/com/allen/springcloud/IndexGatherStoreApplication.java" />
+        <option value="$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/000300.json" />
+        <option value="$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/000015.json" />
+        <option value="$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/000016.json" />
+        <option value="$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/000827.json" />
+        <option value="$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/000905.json" />
+        <option value="$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/000991.json" />
+        <option value="$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/000992.json" />
+        <option value="$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/399006.json" />
+        <option value="$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/399812.json" />
+        <option value="$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/399971.json" />
+        <option value="$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/399975.json" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/client/IndexDataClient.java" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/pojo/Profit.java" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/pojo/Trade.java" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/pojo/AnnualProfit.java" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/service/BackTestService.java" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/web/BackTestController.java" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/templates/view.html" />
+        <option value="$PROJECT_DIR$/index-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/index-config-server/src/main/java/com/allen/springcloud/IndexConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/index-codes-service8011/src/main/java/com/allen/springcloud/IndexCodesApplication.java" />
+        <option value="$PROJECT_DIR$/index-data-service8021/src/main/java/com/allen/springcloud/IndexDataApplication.java" />
+        <option value="$PROJECT_DIR$/index-codes-service8011/pom.xml" />
+        <option value="$PROJECT_DIR$/index-data-service8021/pom.xml" />
+        <option value="$PROJECT_DIR$/index-zuul-service8031/pom.xml" />
+        <option value="$PROJECT_DIR$/index-zuul-service8031/src/main/java/com/allen/springcloud/IndexZuulServiceApplication.java" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service8051/pom.xml" />
+        <option value="$PROJECT_DIR$/index-codes-service8011/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/index-data-service8021/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/TrendTradingBackTestServiceApplication8051.java" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/java/com/allen/springcloud/TrendTradingBackTestViewApplication8041.java" />
+        <option value="$PROJECT_DIR$/index-zuul-service8031/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/templates/include/footer.html" />
+        <option value="$PROJECT_DIR$/index-config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-view8041/pom.xml" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/java/com/allen/springcloud/web/ViewController.java" />
+        <option value="$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/java/com/allen/springcloud/util/FreshConfigUtil.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\AllenMaven\repository" />
+        <option name="mavenHome" value="E:/AllenMaven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\AllenMaven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-server8761" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-server8761" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springcloud趋势投资" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springcloud趋势投资" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="trend-trading-backtest-view8041" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="trend-trading-backtest-view8041" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="trend-trading-backtest-view8041" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.cloud:spring-cloud-starter-bus-amqp:2.2.0.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1302" />
+    <option name="height" value="1403" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springcloud趋势投资" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud趋势投资" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25056946" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AllenXiangmu\springcloud趋势投资\trend-trading-backtest-view8041\src\main\resources" />
+      <recent name="E:\AllenXiangmu\springcloud趋势投资\trend-trading-backtest-view8041\src\main\resources\templates" />
+      <recent name="E:\AllenXiangmu\springcloud趋势投资\trend-trading-backtest-service8051\src\main\resources" />
+      <recent name="E:\AllenXiangmu\springcloud趋势投资\index-data-service8021\src\main\java\com\allen\springcloud" />
+      <recent name="E:\AllenXiangmu\springcloud趋势投资\index-codes-service8011\src\main\java\com\allen\springcloud" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.allen.springcloud.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AllenXiangmu\springcloud趋势投资\trend-trading-backtest-view8041\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.27000612" />
+  </component>
+  <component name="RunManager" selected="Application.FreshConfigUtil">
+    <configuration name="FreshConfigUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allen.springcloud.util.FreshConfigUtil" />
+      <module name="trend-trading-backtest-view8041" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allen.springcloud.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server8761" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allen.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.allen.springcloud.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexCodesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="index-codes-service8011" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.allen.springcloud.IndexCodesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="index-config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allen.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.allen.springcloud.IndexConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexDataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="index-data-service8021" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.allen.springcloud.IndexDataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexGatherStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="index-gather-store-service8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.allen.springcloud.IndexGatherStoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexZuulServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="index-zuul-service8031" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allen.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.allen.springcloud.IndexZuulServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrendTradingBackTestServiceApplication8051" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="trend-trading-backtest-service8051" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.allen.springcloud.TrendTradingBackTestServiceApplication8051" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrendTradingBackTestViewApplication8041" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="trend-trading-backtest-view8041" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allen.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.allen.springcloud.TrendTradingBackTestViewApplication8041" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.IndexCodesApplication" />
+      <item itemvalue="Spring Boot.IndexDataApplication" />
+      <item itemvalue="Spring Boot.IndexGatherStoreApplication" />
+      <item itemvalue="Spring Boot.TrendTradingBackTestServiceApplication8051" />
+      <item itemvalue="Spring Boot.IndexConfigServerApplication" />
+      <item itemvalue="Spring Boot.IndexZuulServiceApplication" />
+      <item itemvalue="Spring Boot.TrendTradingBackTestViewApplication8041" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Application.FreshConfigUtil" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FreshConfigUtil" />
+        <item itemvalue="Spring Boot.IndexZuulServiceApplication" />
+        <item itemvalue="Spring Boot.TrendTradingBackTestViewApplication8041" />
+        <item itemvalue="Spring Boot.IndexConfigServerApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6306908d-36e3-4040-b0fa-2a79d51eb162" name="Default Changelist" comment="" />
+      <created>1586623862628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586623862628</updated>
+      <workItem from="1586623869118" duration="14289000" />
+      <workItem from="1588260710975" duration="13291000" />
+      <workItem from="1588437920235" duration="21478000" />
+      <workItem from="1588490707015" duration="14396000" />
+      <workItem from="1588775311410" duration="10531000" />
+      <workItem from="1588857819015" duration="972000" />
+      <workItem from="1588858929280" duration="2383000" />
+      <workItem from="1588867000837" duration="1718000" />
+      <workItem from="1588868865102" duration="1707000" />
+      <workItem from="1588910262364" duration="1975000" />
+      <workItem from="1588928022150" duration="2810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="85175000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.23543544" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32950193" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42528737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32881355" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.5507559" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Tail" order="15" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" weight="0.48020434" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32852852" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/000300.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="1304" column="5" selection-start-line="1304" selection-start-column="5" selection-end-line="1304" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/000015.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="1304" column="5" lean-forward="true" selection-start-line="1304" selection-start-column="5" selection-end-line="1304" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/codes.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/399975.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="1304" column="5" selection-start-line="1304" selection-start-column="5" selection-end-line="1304" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/399971.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="1304" column="5" selection-start-line="1304" selection-start-column="5" selection-end-line="1304" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/399812.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="1304" column="5" selection-start-line="1304" selection-start-column="5" selection-end-line="1304" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/399006.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="1304" column="5" selection-start-line="1304" selection-start-column="5" selection-end-line="1304" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/000992.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="1304" column="5" selection-start-line="1304" selection-start-column="5" selection-end-line="1304" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/000991.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="1304" column="5" selection-start-line="1304" selection-start-column="5" selection-end-line="1304" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/000905.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="1295" column="5" lean-forward="true" selection-start-line="1295" selection-start-column="5" selection-end-line="1295" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/000827.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="1304" column="5" selection-start-line="1304" selection-start-column="5" selection-end-line="1304" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third-part-index-data-project8090/src/main/resources/static/indexes/000016.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1743">
+          <caret line="1304" column="5" selection-start-line="1304" selection-start-column="5" selection-end-line="1304" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-gather-store-service8001/src/main/java/com/allen/springcloud/IndexGatherStoreApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-data-service8021/src/main/java/com/allen/springcloud/controller/IndexDataController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/pojo/IndexData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/pojo/Profit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/pojo/Trade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/pojo/AnnualProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/service/BackTestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="150" column="48" selection-start-line="150" selection-start-column="48" selection-end-line="150" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/templates/aaaa.yml" />
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/templates/aaa.yml" />
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/aaa.yml" />
+    <entry file="file://$PROJECT_DIR$/index-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/client/IndexDataClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/client/IndexDataClientFeignHystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/templates/include/header.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server8761/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/web/BackTestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server8761/src/main/java/com/allen/springcloud/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-codes-service8011/src/main/java/com/allen/springcloud/IndexCodesApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-556">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-codes-service8011/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-start-column="1" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-codes-service8011/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="8" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-data-service8021/src/main/java/com/allen/springcloud/IndexDataApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-568">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-data-service8021/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-start-column="1" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-data-service8021/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="8" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/java/com/allen/springcloud/TrendTradingBackTestServiceApplication8051.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-service8051/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-zuul-service8031/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-service8051/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="12" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/templates/include/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="95" selection-start-line="2" selection-start-column="95" selection-end-line="2" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-zuul-service8031/src/main/java/com/allen/springcloud/IndexZuulServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/templates/view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12084">
+          <caret line="636" selection-start-line="636" selection-end-line="636" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-zuul-service8031/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-config-server/src/main/java/com/allen/springcloud/IndexConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/java/com/allen/springcloud/TrendTradingBackTestViewApplication8041.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/java/com/allen/springcloud/web/ViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trend-trading-backtest-view8041/src/main/java/com/allen/springcloud/util/FreshConfigUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|trend-trading-backtest-view8041</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25056946" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

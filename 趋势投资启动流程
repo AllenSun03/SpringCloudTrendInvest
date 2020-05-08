@@ -1,0 +1,14 @@
+（1）启动集群服务中心eureka
+8761-EurekaServerApplication
+（2）启动第三方数据
+8090-ThirdPartIndexDataApplication
+（3）启动本地redis
+（4）启动采集和储存微服务
+8001-IndexGatherStoreApplication
+（5）启动指数代码微服务
+8011-IndexCodesApplication
+三个，分别是8011+8012+8013
+（6）启动指数数据微服务
+8021-IndexDataApplication
+（7）启动网关
+8031-IndexZuulServiceApplication

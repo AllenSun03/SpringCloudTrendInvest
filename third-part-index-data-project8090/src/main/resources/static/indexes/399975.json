@@ -1,0 +1,1306 @@
+[
+    {
+        "date": "2019-05-09",
+        "closePoint": 683.96
+    },
+    {
+        "date": "2019-05-08",
+        "closePoint": 693.76
+    },
+    {
+        "date": "2019-05-07",
+        "closePoint": 704.12
+    },
+    {
+        "date": "2019-05-06",
+        "closePoint": 694.24
+    },
+    {
+        "date": "2019-04-30",
+        "closePoint": 767.07
+    },
+    {
+        "date": "2019-04-29",
+        "closePoint": 762.82
+    },
+    {
+        "date": "2019-04-26",
+        "closePoint": 795.41
+    },
+    {
+        "date": "2019-04-25",
+        "closePoint": 790.29
+    },
+    {
+        "date": "2019-04-24",
+        "closePoint": 815.62
+    },
+    {
+        "date": "2019-04-23",
+        "closePoint": 808.2
+    },
+    {
+        "date": "2019-04-22",
+        "closePoint": 803.38
+    },
+    {
+        "date": "2019-04-19",
+        "closePoint": 823.86
+    },
+    {
+        "date": "2019-04-18",
+        "closePoint": 813.27
+    },
+    {
+        "date": "2019-04-17",
+        "closePoint": 819.12
+    },
+    {
+        "date": "2019-04-16",
+        "closePoint": 826.67
+    },
+    {
+        "date": "2019-04-15",
+        "closePoint": 804.68
+    },
+    {
+        "date": "2019-04-12",
+        "closePoint": 821.75
+    },
+    {
+        "date": "2019-04-11",
+        "closePoint": 818.1
+    },
+    {
+        "date": "2019-04-10",
+        "closePoint": 837.11
+    },
+    {
+        "date": "2019-04-09",
+        "closePoint": 849.19
+    },
+    {
+        "date": "2019-04-08",
+        "closePoint": 848.23
+    },
+    {
+        "date": "2019-04-04",
+        "closePoint": 867.77
+    },
+    {
+        "date": "2019-04-03",
+        "closePoint": 867.37
+    },
+    {
+        "date": "2019-04-02",
+        "closePoint": 826.29
+    },
+    {
+        "date": "2019-04-01",
+        "closePoint": 828.83
+    },
+    {
+        "date": "2019-03-29",
+        "closePoint": 812.4
+    },
+    {
+        "date": "2019-03-28",
+        "closePoint": 753.29
+    },
+    {
+        "date": "2019-03-27",
+        "closePoint": 758.91
+    },
+    {
+        "date": "2019-03-26",
+        "closePoint": 755.01
+    },
+    {
+        "date": "2019-03-25",
+        "closePoint": 779.48
+    },
+    {
+        "date": "2019-03-22",
+        "closePoint": 810.48
+    },
+    {
+        "date": "2019-03-21",
+        "closePoint": 819.64
+    },
+    {
+        "date": "2019-03-20",
+        "closePoint": 807.32
+    },
+    {
+        "date": "2019-03-19",
+        "closePoint": 795.98
+    },
+    {
+        "date": "2019-03-18",
+        "closePoint": 804.38
+    },
+    {
+        "date": "2019-03-15",
+        "closePoint": 785.08
+    },
+    {
+        "date": "2019-03-14",
+        "closePoint": 774.47
+    },
+    {
+        "date": "2019-03-13",
+        "closePoint": 802.02
+    },
+    {
+        "date": "2019-03-12",
+        "closePoint": 817.09
+    },
+    {
+        "date": "2019-03-11",
+        "closePoint": 807.81
+    },
+    {
+        "date": "2019-03-08",
+        "closePoint": 797.21
+    },
+    {
+        "date": "2019-03-07",
+        "closePoint": 873.01
+    },
+    {
+        "date": "2019-03-06",
+        "closePoint": 841.35
+    },
+    {
+        "date": "2019-03-05",
+        "closePoint": 798.27
+    },
+    {
+        "date": "2019-03-04",
+        "closePoint": 796.26
+    },
+    {
+        "date": "2019-03-01",
+        "closePoint": 790.25
+    },
+    {
+        "date": "2019-02-28",
+        "closePoint": 764.17
+    },
+    {
+        "date": "2019-02-27",
+        "closePoint": 792.03
+    },
+    {
+        "date": "2019-02-26",
+        "closePoint": 797.74
+    },
+    {
+        "date": "2019-02-25",
+        "closePoint": 813.4
+    },
+    {
+        "date": "2019-02-22",
+        "closePoint": 739.45
+    },
+    {
+        "date": "2019-02-21",
+        "closePoint": 674.21
+    },
+    {
+        "date": "2019-02-20",
+        "closePoint": 668.94
+    },
+    {
+        "date": "2019-02-19",
+        "closePoint": 665.2
+    },
+    {
+        "date": "2019-02-18",
+        "closePoint": 660.95
+    },
+    {
+        "date": "2019-02-15",
+        "closePoint": 624.95
+    },
+    {
+        "date": "2019-02-14",
+        "closePoint": 638.79
+    },
+    {
+        "date": "2019-02-13",
+        "closePoint": 641.03
+    },
+    {
+        "date": "2019-02-12",
+        "closePoint": 619.53
+    },
+    {
+        "date": "2019-02-11",
+        "closePoint": 615.22
+    },
+    {
+        "date": "2019-02-01",
+        "closePoint": 604.81
+    },
+    {
+        "date": "2019-01-31",
+        "closePoint": 588.9
+    },
+    {
+        "date": "2019-01-30",
+        "closePoint": 581.98
+    },
+    {
+        "date": "2019-01-29",
+        "closePoint": 589.46
+    },
+    {
+        "date": "2019-01-28",
+        "closePoint": 594.93
+    },
+    {
+        "date": "2019-01-25",
+        "closePoint": 596.33
+    },
+    {
+        "date": "2019-01-24",
+        "closePoint": 598.42
+    },
+    {
+        "date": "2019-01-23",
+        "closePoint": 589.1
+    },
+    {
+        "date": "2019-01-22",
+        "closePoint": 590.09
+    },
+    {
+        "date": "2019-01-21",
+        "closePoint": 599.1
+    },
+    {
+        "date": "2019-01-18",
+        "closePoint": 602.65
+    },
+    {
+        "date": "2019-01-17",
+        "closePoint": 594.92
+    },
+    {
+        "date": "2019-01-16",
+        "closePoint": 601.04
+    },
+    {
+        "date": "2019-01-15",
+        "closePoint": 606.73
+    },
+    {
+        "date": "2019-01-14",
+        "closePoint": 591.59
+    },
+    {
+        "date": "2019-01-11",
+        "closePoint": 593.75
+    },
+    {
+        "date": "2019-01-10",
+        "closePoint": 590.26
+    },
+    {
+        "date": "2019-01-09",
+        "closePoint": 597.22
+    },
+    {
+        "date": "2019-01-08",
+        "closePoint": 596.23
+    },
+    {
+        "date": "2019-01-07",
+        "closePoint": 594.37
+    },
+    {
+        "date": "2019-01-04",
+        "closePoint": 593.74
+    },
+    {
+        "date": "2019-01-03",
+        "closePoint": 556.09
+    },
+    {
+        "date": "2019-01-02",
+        "closePoint": 544.01
+    },
+    {
+        "date": "2018-12-28",
+        "closePoint": 545.35
+    },
+    {
+        "date": "2018-12-27",
+        "closePoint": 534.83
+    },
+    {
+        "date": "2018-12-26",
+        "closePoint": 535.91
+    },
+    {
+        "date": "2018-12-25",
+        "closePoint": 539.3
+    },
+    {
+        "date": "2018-12-24",
+        "closePoint": 551.31
+    },
+    {
+        "date": "2018-12-21",
+        "closePoint": 556.35
+    },
+    {
+        "date": "2018-12-20",
+        "closePoint": 566.42
+    },
+    {
+        "date": "2018-12-19",
+        "closePoint": 561.04
+    },
+    {
+        "date": "2018-12-18",
+        "closePoint": 565.95
+    },
+    {
+        "date": "2018-12-17",
+        "closePoint": 575.47
+    },
+    {
+        "date": "2018-12-14",
+        "closePoint": 572.38
+    },
+    {
+        "date": "2018-12-13",
+        "closePoint": 589.19
+    },
+    {
+        "date": "2018-12-12",
+        "closePoint": 582.57
+    },
+    {
+        "date": "2018-12-11",
+        "closePoint": 580.82
+    },
+    {
+        "date": "2018-12-10",
+        "closePoint": 578.87
+    },
+    {
+        "date": "2018-12-07",
+        "closePoint": 586.85
+    },
+    {
+        "date": "2018-12-06",
+        "closePoint": 584.9
+    },
+    {
+        "date": "2018-12-05",
+        "closePoint": 600.79
+    },
+    {
+        "date": "2018-12-04",
+        "closePoint": 608.93
+    },
+    {
+        "date": "2018-12-03",
+        "closePoint": 602.5
+    },
+    {
+        "date": "2018-11-30",
+        "closePoint": 585.3
+    },
+    {
+        "date": "2018-11-29",
+        "closePoint": 576.12
+    },
+    {
+        "date": "2018-11-28",
+        "closePoint": 595.8
+    },
+    {
+        "date": "2018-11-27",
+        "closePoint": 580.83
+    },
+    {
+        "date": "2018-11-26",
+        "closePoint": 578.7
+    },
+    {
+        "date": "2018-11-23",
+        "closePoint": 581.32
+    },
+    {
+        "date": "2018-11-22",
+        "closePoint": 600.41
+    },
+    {
+        "date": "2018-11-21",
+        "closePoint": 606.46
+    },
+    {
+        "date": "2018-11-20",
+        "closePoint": 605.42
+    },
+    {
+        "date": "2018-11-19",
+        "closePoint": 634.38
+    },
+    {
+        "date": "2018-11-16",
+        "closePoint": 615.39
+    },
+    {
+        "date": "2018-11-15",
+        "closePoint": 600.34
+    },
+    {
+        "date": "2018-11-14",
+        "closePoint": 583.62
+    },
+    {
+        "date": "2018-11-13",
+        "closePoint": 593.07
+    },
+    {
+        "date": "2018-11-12",
+        "closePoint": 578.14
+    },
+    {
+        "date": "2018-11-09",
+        "closePoint": 567.95
+    },
+    {
+        "date": "2018-11-08",
+        "closePoint": 567.53
+    },
+    {
+        "date": "2018-11-07",
+        "closePoint": 576.66
+    },
+    {
+        "date": "2018-11-06",
+        "closePoint": 587.65
+    },
+    {
+        "date": "2018-11-05",
+        "closePoint": 592.42
+    },
+    {
+        "date": "2018-11-02",
+        "closePoint": 592.24
+    },
+    {
+        "date": "2018-11-01",
+        "closePoint": 577.33
+    },
+    {
+        "date": "2018-10-31",
+        "closePoint": 571.29
+    },
+    {
+        "date": "2018-10-30",
+        "closePoint": 577.76
+    },
+    {
+        "date": "2018-10-29",
+        "closePoint": 550.96
+    },
+    {
+        "date": "2018-10-26",
+        "closePoint": 555.67
+    },
+    {
+        "date": "2018-10-25",
+        "closePoint": 570.85
+    },
+    {
+        "date": "2018-10-24",
+        "closePoint": 548.75
+    },
+    {
+        "date": "2018-10-23",
+        "closePoint": 536.3
+    },
+    {
+        "date": "2018-10-22",
+        "closePoint": 537.5
+    },
+    {
+        "date": "2018-10-19",
+        "closePoint": 488.63
+    },
+    {
+        "date": "2018-10-18",
+        "closePoint": 472.62
+    },
+    {
+        "date": "2018-10-17",
+        "closePoint": 481.27
+    },
+    {
+        "date": "2018-10-16",
+        "closePoint": 475.56
+    },
+    {
+        "date": "2018-10-15",
+        "closePoint": 479.19
+    },
+    {
+        "date": "2018-10-12",
+        "closePoint": 485.61
+    },
+    {
+        "date": "2018-10-11",
+        "closePoint": 495.55
+    },
+    {
+        "date": "2018-10-10",
+        "closePoint": 534.35
+    },
+    {
+        "date": "2018-10-09",
+        "closePoint": 532.37
+    },
+    {
+        "date": "2018-10-08",
+        "closePoint": 533.21
+    },
+    {
+        "date": "2018-09-28",
+        "closePoint": 554.18
+    },
+    {
+        "date": "2018-09-27",
+        "closePoint": 549.4
+    },
+    {
+        "date": "2018-09-26",
+        "closePoint": 553.21
+    },
+    {
+        "date": "2018-09-25",
+        "closePoint": 550.21
+    },
+    {
+        "date": "2018-09-21",
+        "closePoint": 556.58
+    },
+    {
+        "date": "2018-09-20",
+        "closePoint": 543.72
+    },
+    {
+        "date": "2018-09-19",
+        "closePoint": 544.54
+    },
+    {
+        "date": "2018-09-18",
+        "closePoint": 541.09
+    },
+    {
+        "date": "2018-09-17",
+        "closePoint": 531.25
+    },
+    {
+        "date": "2018-09-14",
+        "closePoint": 533.67
+    },
+    {
+        "date": "2018-09-13",
+        "closePoint": 536.42
+    },
+    {
+        "date": "2018-09-12",
+        "closePoint": 529.03
+    },
+    {
+        "date": "2018-09-11",
+        "closePoint": 526.8
+    },
+    {
+        "date": "2018-09-10",
+        "closePoint": 524.04
+    },
+    {
+        "date": "2018-09-07",
+        "closePoint": 539.98
+    },
+    {
+        "date": "2018-09-06",
+        "closePoint": 539.19
+    },
+    {
+        "date": "2018-09-05",
+        "closePoint": 540.97
+    },
+    {
+        "date": "2018-09-04",
+        "closePoint": 549.47
+    },
+    {
+        "date": "2018-09-03",
+        "closePoint": 544.48
+    },
+    {
+        "date": "2018-08-31",
+        "closePoint": 546.76
+    },
+    {
+        "date": "2018-08-30",
+        "closePoint": 544.52
+    },
+    {
+        "date": "2018-08-29",
+        "closePoint": 552.45
+    },
+    {
+        "date": "2018-08-28",
+        "closePoint": 555.39
+    },
+    {
+        "date": "2018-08-27",
+        "closePoint": 558.98
+    },
+    {
+        "date": "2018-08-24",
+        "closePoint": 551.71
+    },
+    {
+        "date": "2018-08-23",
+        "closePoint": 550.66
+    },
+    {
+        "date": "2018-08-22",
+        "closePoint": 546.55
+    },
+    {
+        "date": "2018-08-21",
+        "closePoint": 550.07
+    },
+    {
+        "date": "2018-08-20",
+        "closePoint": 546.78
+    },
+    {
+        "date": "2018-08-17",
+        "closePoint": 537.24
+    },
+    {
+        "date": "2018-08-16",
+        "closePoint": 543.52
+    },
+    {
+        "date": "2018-08-15",
+        "closePoint": 538.14
+    },
+    {
+        "date": "2018-08-14",
+        "closePoint": 550.05
+    },
+    {
+        "date": "2018-08-13",
+        "closePoint": 551.06
+    },
+    {
+        "date": "2018-08-10",
+        "closePoint": 554.02
+    },
+    {
+        "date": "2018-08-09",
+        "closePoint": 553.68
+    },
+    {
+        "date": "2018-08-08",
+        "closePoint": 543.46
+    },
+    {
+        "date": "2018-08-07",
+        "closePoint": 552.93
+    },
+    {
+        "date": "2018-08-06",
+        "closePoint": 536.55
+    },
+    {
+        "date": "2018-08-03",
+        "closePoint": 543.81
+    },
+    {
+        "date": "2018-08-02",
+        "closePoint": 548.21
+    },
+    {
+        "date": "2018-08-01",
+        "closePoint": 563.92
+    },
+    {
+        "date": "2018-07-31",
+        "closePoint": 577.65
+    },
+    {
+        "date": "2018-07-30",
+        "closePoint": 576.4
+    },
+    {
+        "date": "2018-07-27",
+        "closePoint": 579.51
+    },
+    {
+        "date": "2018-07-26",
+        "closePoint": 583.01
+    },
+    {
+        "date": "2018-07-25",
+        "closePoint": 587.39
+    },
+    {
+        "date": "2018-07-24",
+        "closePoint": 591.19
+    },
+    {
+        "date": "2018-07-23",
+        "closePoint": 580.91
+    },
+    {
+        "date": "2018-07-20",
+        "closePoint": 573.28
+    },
+    {
+        "date": "2018-07-19",
+        "closePoint": 555.67
+    },
+    {
+        "date": "2018-07-18",
+        "closePoint": 558.1
+    },
+    {
+        "date": "2018-07-17",
+        "closePoint": 562.11
+    },
+    {
+        "date": "2018-07-16",
+        "closePoint": 566.48
+    },
+    {
+        "date": "2018-07-13",
+        "closePoint": 568.67
+    },
+    {
+        "date": "2018-07-12",
+        "closePoint": 570.48
+    },
+    {
+        "date": "2018-07-11",
+        "closePoint": 553.69
+    },
+    {
+        "date": "2018-07-10",
+        "closePoint": 571.23
+    },
+    {
+        "date": "2018-07-09",
+        "closePoint": 572.09
+    },
+    {
+        "date": "2018-07-06",
+        "closePoint": 561.59
+    },
+    {
+        "date": "2018-07-05",
+        "closePoint": 557.96
+    },
+    {
+        "date": "2018-07-04",
+        "closePoint": 564.39
+    },
+    {
+        "date": "2018-07-03",
+        "closePoint": 572.3
+    },
+    {
+        "date": "2018-07-02",
+        "closePoint": 563.9
+    },
+    {
+        "date": "2018-06-29",
+        "closePoint": 578.61
+    },
+    {
+        "date": "2018-06-28",
+        "closePoint": 566.85
+    },
+    {
+        "date": "2018-06-27",
+        "closePoint": 560.61
+    },
+    {
+        "date": "2018-06-26",
+        "closePoint": 566.09
+    },
+    {
+        "date": "2018-06-25",
+        "closePoint": 560.75
+    },
+    {
+        "date": "2018-06-22",
+        "closePoint": 567.95
+    },
+    {
+        "date": "2018-06-21",
+        "closePoint": 559.33
+    },
+    {
+        "date": "2018-06-20",
+        "closePoint": 577.48
+    },
+    {
+        "date": "2018-06-19",
+        "closePoint": 578.98
+    },
+    {
+        "date": "2018-06-15",
+        "closePoint": 622.13
+    },
+    {
+        "date": "2018-06-14",
+        "closePoint": 630.21
+    },
+    {
+        "date": "2018-06-13",
+        "closePoint": 625.7
+    },
+    {
+        "date": "2018-06-12",
+        "closePoint": 637.52
+    },
+    {
+        "date": "2018-06-11",
+        "closePoint": 635.02
+    },
+    {
+        "date": "2018-06-08",
+        "closePoint": 633.08
+    },
+    {
+        "date": "2018-06-07",
+        "closePoint": 647.86
+    },
+    {
+        "date": "2018-06-06",
+        "closePoint": 643.07
+    },
+    {
+        "date": "2018-06-05",
+        "closePoint": 644.04
+    },
+    {
+        "date": "2018-06-04",
+        "closePoint": 640.9
+    },
+    {
+        "date": "2018-06-01",
+        "closePoint": 644.11
+    },
+    {
+        "date": "2018-05-31",
+        "closePoint": 641.85
+    },
+    {
+        "date": "2018-05-30",
+        "closePoint": 631.42
+    },
+    {
+        "date": "2018-05-29",
+        "closePoint": 656.82
+    },
+    {
+        "date": "2018-05-28",
+        "closePoint": 667.24
+    },
+    {
+        "date": "2018-05-25",
+        "closePoint": 667.35
+    },
+    {
+        "date": "2018-05-24",
+        "closePoint": 675.21
+    },
+    {
+        "date": "2018-05-23",
+        "closePoint": 680.24
+    },
+    {
+        "date": "2018-05-22",
+        "closePoint": 688.3
+    },
+    {
+        "date": "2018-05-21",
+        "closePoint": 692.7
+    },
+    {
+        "date": "2018-05-18",
+        "closePoint": 687.98
+    },
+    {
+        "date": "2018-05-17",
+        "closePoint": 679.31
+    },
+    {
+        "date": "2018-05-16",
+        "closePoint": 684.31
+    },
+    {
+        "date": "2018-05-15",
+        "closePoint": 692.91
+    },
+    {
+        "date": "2018-05-14",
+        "closePoint": 695.7
+    },
+    {
+        "date": "2018-05-11",
+        "closePoint": 692.45
+    },
+    {
+        "date": "2018-05-10",
+        "closePoint": 701.89
+    },
+    {
+        "date": "2018-05-09",
+        "closePoint": 696.93
+    },
+    {
+        "date": "2018-05-08",
+        "closePoint": 704.33
+    },
+    {
+        "date": "2018-05-07",
+        "closePoint": 701.49
+    },
+    {
+        "date": "2018-05-04",
+        "closePoint": 693.84
+    },
+    {
+        "date": "2018-05-03",
+        "closePoint": 699.71
+    },
+    {
+        "date": "2018-05-02",
+        "closePoint": 682.52
+    },
+    {
+        "date": "2018-04-27",
+        "closePoint": 680.05
+    },
+    {
+        "date": "2018-04-26",
+        "closePoint": 669.59
+    },
+    {
+        "date": "2018-04-25",
+        "closePoint": 684.56
+    },
+    {
+        "date": "2018-04-24",
+        "closePoint": 688.72
+    },
+    {
+        "date": "2018-04-23",
+        "closePoint": 670.85
+    },
+    {
+        "date": "2018-04-20",
+        "closePoint": 664.23
+    },
+    {
+        "date": "2018-04-19",
+        "closePoint": 687.68
+    },
+    {
+        "date": "2018-04-18",
+        "closePoint": 683.84
+    },
+    {
+        "date": "2018-04-17",
+        "closePoint": 673.77
+    },
+    {
+        "date": "2018-04-16",
+        "closePoint": 673.24
+    },
+    {
+        "date": "2018-04-13",
+        "closePoint": 688.61
+    },
+    {
+        "date": "2018-04-12",
+        "closePoint": 696.25
+    },
+    {
+        "date": "2018-04-11",
+        "closePoint": 702.12
+    },
+    {
+        "date": "2018-04-10",
+        "closePoint": 706.67
+    },
+    {
+        "date": "2018-04-09",
+        "closePoint": 694.17
+    },
+    {
+        "date": "2018-04-04",
+        "closePoint": 690.25
+    },
+    {
+        "date": "2018-04-03",
+        "closePoint": 697.24
+    },
+    {
+        "date": "2018-04-02",
+        "closePoint": 696.33
+    },
+    {
+        "date": "2018-03-30",
+        "closePoint": 688.77
+    },
+    {
+        "date": "2018-03-29",
+        "closePoint": 685.24
+    },
+    {
+        "date": "2018-03-28",
+        "closePoint": 670.26
+    },
+    {
+        "date": "2018-03-27",
+        "closePoint": 678.09
+    },
+    {
+        "date": "2018-03-26",
+        "closePoint": 668.36
+    },
+    {
+        "date": "2018-03-23",
+        "closePoint": 664.07
+    },
+    {
+        "date": "2018-03-22",
+        "closePoint": 701.71
+    },
+    {
+        "date": "2018-03-21",
+        "closePoint": 702.4
+    },
+    {
+        "date": "2018-03-20",
+        "closePoint": 700.83
+    },
+    {
+        "date": "2018-03-19",
+        "closePoint": 701.31
+    },
+    {
+        "date": "2018-03-16",
+        "closePoint": 699.55
+    },
+    {
+        "date": "2018-03-15",
+        "closePoint": 708.74
+    },
+    {
+        "date": "2018-03-14",
+        "closePoint": 710.33
+    },
+    {
+        "date": "2018-03-13",
+        "closePoint": 716.43
+    },
+    {
+        "date": "2018-03-12",
+        "closePoint": 728.94
+    },
+    {
+        "date": "2018-03-09",
+        "closePoint": 718.43
+    },
+    {
+        "date": "2018-03-08",
+        "closePoint": 706.21
+    },
+    {
+        "date": "2018-03-07",
+        "closePoint": 703.94
+    },
+    {
+        "date": "2018-03-06",
+        "closePoint": 711.44
+    },
+    {
+        "date": "2018-03-05",
+        "closePoint": 696.68
+    },
+    {
+        "date": "2018-03-02",
+        "closePoint": 696.18
+    },
+    {
+        "date": "2018-03-01",
+        "closePoint": 704.1
+    },
+    {
+        "date": "2018-02-28",
+        "closePoint": 701.69
+    },
+    {
+        "date": "2018-02-27",
+        "closePoint": 705.38
+    },
+    {
+        "date": "2018-02-26",
+        "closePoint": 714.07
+    },
+    {
+        "date": "2018-02-23",
+        "closePoint": 696.85
+    },
+    {
+        "date": "2018-02-22",
+        "closePoint": 692.36
+    },
+    {
+        "date": "2018-02-14",
+        "closePoint": 685.63
+    },
+    {
+        "date": "2018-02-13",
+        "closePoint": 685.68
+    },
+    {
+        "date": "2018-02-12",
+        "closePoint": 680.34
+    },
+    {
+        "date": "2018-02-09",
+        "closePoint": 682.43
+    },
+    {
+        "date": "2018-02-08",
+        "closePoint": 735.77
+    },
+    {
+        "date": "2018-02-07",
+        "closePoint": 739.45
+    },
+    {
+        "date": "2018-02-06",
+        "closePoint": 749.72
+    },
+    {
+        "date": "2018-02-05",
+        "closePoint": 786.49
+    },
+    {
+        "date": "2018-02-02",
+        "closePoint": 782.77
+    },
+    {
+        "date": "2018-02-01",
+        "closePoint": 784.92
+    },
+    {
+        "date": "2018-01-31",
+        "closePoint": 793.5
+    },
+    {
+        "date": "2018-01-30",
+        "closePoint": 810.92
+    },
+    {
+        "date": "2018-01-29",
+        "closePoint": 821.44
+    },
+    {
+        "date": "2018-01-26",
+        "closePoint": 834.85
+    },
+    {
+        "date": "2018-01-25",
+        "closePoint": 835.64
+    },
+    {
+        "date": "2018-01-24",
+        "closePoint": 853.85
+    },
+    {
+        "date": "2018-01-23",
+        "closePoint": 822.96
+    },
+    {
+        "date": "2018-01-22",
+        "closePoint": 818.79
+    },
+    {
+        "date": "2018-01-19",
+        "closePoint": 820.73
+    },
+    {
+        "date": "2018-01-18",
+        "closePoint": 800.56
+    },
+    {
+        "date": "2018-01-17",
+        "closePoint": 794.69
+    },
+    {
+        "date": "2018-01-16",
+        "closePoint": 769.88
+    },
+    {
+        "date": "2018-01-15",
+        "closePoint": 751.7
+    },
+    {
+        "date": "2018-01-12",
+        "closePoint": 764.16
+    },
+    {
+        "date": "2018-01-11",
+        "closePoint": 766.2
+    },
+    {
+        "date": "2018-01-10",
+        "closePoint": 769.74
+    },
+    {
+        "date": "2018-01-09",
+        "closePoint": 771.8
+    },
+    {
+        "date": "2018-01-08",
+        "closePoint": 778.05
+    },
+    {
+        "date": "2018-01-05",
+        "closePoint": 761.72
+    },
+    {
+        "date": "2018-01-04",
+        "closePoint": 758.73
+    },
+    {
+        "date": "2018-01-03",
+        "closePoint": 761.05
+    },
+    {
+        "date": "2018-01-02",
+        "closePoint": 750
+    }
+]
